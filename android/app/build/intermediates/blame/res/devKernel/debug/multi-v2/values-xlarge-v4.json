@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sinthu/Desktop/braze-test/clean/android/app/build/intermediates/incremental/mergeDevKernelDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/sinthu/.gradle/caches/transforms-1/files-1.1/android-sdk-ui-3.1.0.aar/2a44e82ea8d7a4fb38a7db78551a3638/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,124,184",
+                        "endLines": "2,3,10",
+                        "endColumns": "68,59,10",
+                        "endOffsets": "119,179,540"
+                    },
+                    "to": {
+                        "startLines": "8,9,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "473,542,602",
+                        "endLines": "8,9,16",
+                        "endColumns": "68,59,10",
+                        "endOffsets": "537,597,958"
+                    }
+                },
+                {
+                    "source": "/Users/sinthu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/00fc3c686b329ea25b9abb2471e7ca96/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        }
+    ]
+}

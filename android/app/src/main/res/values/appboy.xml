@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_appboy_api_key">appboyapikey</string>
+    <bool translatable="false" name="com_appboy_firebase_cloud_messaging_registration_enabled">true</bool>
+    <string translatable="false" name="com_appboy_firebase_cloud_messaging_sender_id">fcmsenderid</string>
+    <bool name="com_appboy_handle_push_deep_links_automatically">true</bool>
+</resources>
